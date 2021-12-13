@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321048163013",
+    "project_id": "viibezz-dev-master",
+    "storage_bucket": "viibezz-dev-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321048163013:android:20b2d88c224bbf970536ac",
+        "android_client_info": {
+          "package_name": "com.dbc.viibez_messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321048163013-vh6v1ebdolimqq3lj9bve2m1ffdsi1sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQbJBYJlfaI5u27Frop18cS_jo91tySc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321048163013-vh6v1ebdolimqq3lj9bve2m1ffdsi1sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
