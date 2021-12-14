@@ -18,7 +18,7 @@ This project was built keeping communication in mind. It is a simple android mes
 <img width="260" height="480" src="./.extra/Registration_Screen.jpg"><br>
 <img width="260" height="480" src="./.extra/Chat_Screen.jpg"><br>
 
-[![Developers Tag]( https://img.shields.io/badge/Developer-anuragagarwal96-black.svg )]( https://github.com/anuragagarwal97 )<br>
+[![Developers Tag]( https://img.shields.io/badge/Developer-anuragagarwal96-black.svg )]( https://github.com/anuragagarwal96 )<br>
 
 
 
